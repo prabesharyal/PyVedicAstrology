@@ -32,6 +32,8 @@ purnaaa_s = list((tithis['shuklapaksha'])[14])
 purnaaa = list()
 purnaaa.append([purnaaa_k, purnaaa_s])
 
+print('panchanga nai xaina')
+
 #print(purnaaa)
 
 #Fal
